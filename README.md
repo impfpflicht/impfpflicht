@@ -7,16 +7,16 @@ Der _Titel_ (nicht nur die Überschrift!) der besagten Seite änderte sich übri
 * Corona-Impfung: Irrtümer und Falschinformationen
 * Corona-Impfung: Mythen und Desinformation
 
-Dank des Internet-Archivs, [können alte Versionen eingesehen werden](https://web.archive.org/web/https://www.bundesregierung.de/breg-de/themen/corona-informationen-impfung/mythen-impfstoff-1831898).
+Dank des Internet-Archivs, [können alte Versionen eingesehen werden](https://web.archive.org/*/web/https://www.bundesregierung.de/breg-de/themen/corona-informationen-impfung/mythen-impfstoff-1831898).
 
 Der Einfachheit halber habe ich mich allein auf diesen Punkt beschränkt und die Formatierung in MarkDown vorgenommen, damit es hier bei GitHub etwas einfacher navigierbar ist. Die Hervorhebung durch Fettschreibung habe ich übernommen, Links verweisen auf das Internet-Archiv.
 
 ## Anmerkungen
 
 * [2021-12-01](2021-12-01.md): neueste Sprachregelung, wobei Hessen bereits einen "Lockdown für Ungeimpfte" -- wie es euphemistisch heißt --, wirksam ab 2021-12-05, beschlossen hat und von mehreren Politikern laut über eine _allgemeine_ Impfpflicht nachgedacht wird.
-* Zwischen den frühen Morgenstunden des [2021-11-17](2021-11-17.md) und dem frühen Nachmittag des [2021-11-22](2021-11-22.md) wurde der Absatz zur Impfpflicht vorübergehend _komplett_ entfernt: [siehe hier](https://web.archive.org/web/20211122010813/https://www.bundesregierung.de/breg-de/themen/corona-informationen-impfung/mythen-impfstoff-1831898)! Am Nachmittag dann die neue Sprachregelung.
-* Zwischen dem 2021-11-12 und dem [2021-11-17](2021-11-17.md) wird aus ~~Impfflicht~~ (sic) nunmehr **allgemeine Impfpflicht gegen Covid-19**.
-* [2021-09-06](2021-09-06.md): erste Sprachregelung zum Thema Impfpflicht (auf der Webseite geschrieben "Impfflicht")
+* Zwischen den frühen Morgenstunden des [2021-11-17](2021-11-17.md) und dem frühen Nachmittag des [2021-11-22](2021-11-22.md) wurde der Absatz zur Impfpflicht vorübergehend _komplett_ entfernt: [siehe hier](https://web.archive.org/web/20211122010813/https://www.bundesregierung.de/breg-de/themen/corona-informationen-impfung/mythen-impfstoff-1831898)! Am Nachmittag dann die neue Sprachregelung ([Link](https://web.archive.org/web/20211122133449/https://www.bundesregierung.de/breg-de/themen/corona-informationen-impfung/mythen-impfstoff-1831898/)).
+* Zwischen dem 2021-11-12 und dem [2021-11-17](2021-11-17.md) ([Link](https://web.archive.org/web/20211117003955/https://www.bundesregierung.de/breg-de/themen/corona-informationen-impfung/mythen-impfstoff-1831898/)) wird aus ~~Impfflicht~~ (sic) eine **allgemeine Impfpflicht gegen Covid-19**.
+* [2021-09-06](2021-09-06.md) ([Link](https://web.archive.org/web/20210906210857/https://www.bundesregierung.de/breg-de/themen/corona-informationen-impfung/mythen-impfstoff-1831898/)): erste Sprachregelung zum Thema Impfpflicht (auf der Webseite geschrieben "Impfflicht")
 * Erstmals taucht zwischen dem [2021-07-15](https://web.archive.org/web/20210715222853/https://www.bundesregierung.de/breg-de/themen/corona-informationen-impfung/mythen-impfstoff-1831898) und dem [2021-09-06](2021-09-06.md) der Absatz zur vermeintlichen Impfpflicht auf. Die erste archivierte Version ist vom besagten 6. September.
 
 ## Du "Impfgegner/Querdenker/Corona-Leugner" du!
